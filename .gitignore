@@ -1,1 +1,7 @@
 *.zip
+awscliv2.zip
+aws/dist/
+cdk.out/
+aws/
+cdk.out/
+*.zip
