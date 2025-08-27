@@ -1,0 +1,7 @@
+{
+  "app": "node dist/bin/cdk-app.js",
+  "watch": {
+    "include": ["**"],
+    "exclude": ["cdk.out", "node_modules"]
+  }
+}
